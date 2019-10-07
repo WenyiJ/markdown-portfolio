@@ -1,4 +1,5 @@
 Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
-* :heart:Painting
-* :heart:Traveling
-* :heart:Skydiving
+- :heart:Painting
+- :heart:Traveling
+- :heart:Skydiving
+  - bungee
